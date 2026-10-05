@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Sea Bass",
+    "title": "Dicentrarchus labrax 177025102.jpg",
+    "creator": "Julien Renoult",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dicentrarchus_labrax_177025102.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "name": "Sea Bream",
+    "title": "Sparus aurata Sardegna.jpg",
+    "creator": "Roberto Pillon",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sparus_aurata_Sardegna.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "name": "Mackerel",
+    "title": "Scomber scombrus.jpg",
+    "creator": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scomber_scombrus.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "name": "Sardine",
+    "title": "Sardina pilchardus Italy.jpg",
+    "creator": "margherita_bg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sardina_pilchardus_Italy.jpg",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "name": "Tuna",
+    "title": "GFNMS bluefin tuna (49040302228).jpg",
+    "creator": "National Marine Sanctuaries",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:GFNMS_bluefin_tuna_(49040302228).jpg",
+    "licenseUrl": ""
+  },
+  {
+    "name": "Snapper",
+    "title": "Red snapper 2.jpg",
+    "creator": "Unknown author Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_snapper_2.jpg",
+    "licenseUrl": ""
+  },
+  {
+    "name": "Grouper",
+    "title": "Epinephelus marginatus - Palmitos Park.jpg",
+    "creator": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Epinephelus_marginatus_-_Palmitos_Park.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "name": "Sole",
+    "title": "Solea solea 1.jpg",
+    "creator": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Solea_solea_1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "name": "Trout",
+    "title": "Rainbow Trout (Oncorhynchus mykiss) Gavins Point.jpg",
+    "creator": "USFWS Mountain Prairie",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Rainbow_Trout_(Oncorhynchus_mykiss)_Gavins_Point.jpg",
+    "licenseUrl": ""
+  },
+  {
+    "name": "Carp",
+    "title": "Karpfen (159381151).jpeg",
+    "creator": "Sven Riewe",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Karpfen_(159381151).jpeg",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  }
+]
